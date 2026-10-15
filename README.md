@@ -217,14 +217,6 @@ Actively looking to connect, collaborate, and grow with like-minded professional
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=SujayMohanty&theme=transparent&hide_border=true&background=0B0F17&ring=00E5FF&fire=FF4D8D&currStreakLabel=00E5FF&sideLabels=9D7BFF&dates=8B949E" width="90%" alt="GitHub Contribution Streak"/>
 </p>
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=SujayMohanty&bg_color=0B0F17&color=00E5FF&line=9D7BFF&point=FFFFFF&area=true&hide_border=true" width="100%" alt="GitHub Contribution Activity Graph"/>
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=SujayMohanty&theme=onestar&no-frame=true&no-bg=true&column=7&margin-w=8" width="100%" alt="GitHub Profile Trophies"/>
-</p>
-
 ---
 
 ## 💻 Languages & Technologies
