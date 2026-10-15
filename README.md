@@ -6,7 +6,14 @@
 
 <br/>
 
-<a href="https://github.com/SujayMohanty"><img src="https://komarev.com/ghpvc/?username=SujayMohanty&style=for-the-badge&color=1b8fff&label=PROFILE+VIEWS" alt="Profile views"/></a>
+
+<p align="center">
+  <img
+    src="https://komarev.com/ghpvc/?username=SujayMohanty&label=PROFILE%20VIEWS&color=00E5FF&style=for-the-badge"
+    alt="Profile Views"
+  />
+</p>
+
 <a href="https://github.com/SujayMohanty?tab=followers"><img src="https://img.shields.io/github/followers/SujayMohanty?style=for-the-badge&logo=github&label=FOLLOWERS&color=7c4dff" alt="GitHub followers"/></a>
 <a href="https://github.com/SujayMohanty?tab=repositories"><img src="https://img.shields.io/badge/EXPLORE-REPOSITORIES-0bdaef?style=for-the-badge&logo=github&logoColor=07111f" alt="Repositories"/></a>
 
