@@ -1,0 +1,62 @@
+name: Refresh cosmic video header and contribution snake
+
+on:
+  push:
+    branches: [main]
+    paths-ignore:
+      - "assets/cosmic-header.gif"
+  schedule:
+    - cron: "17 */12 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: profile-graphics
+  cancel-in-progress: false
+
+jobs:
+  graphics:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - name: Check out repository
+        uses: actions/checkout@v4
+
+      - name: Verify original wallpaper source
+        run: |
+          test -s "assets/singularity-cosmic-vortex-moewalls-com.mp4"
+          command -v ffmpeg
+
+      - name: Render exact MP4 as GitHub-compatible animated header
+        shell: bash
+        run: |
+          set -euo pipefail
+          ffmpeg -hide_banner -loglevel error -y \
+            -i "assets/singularity-cosmic-vortex-moewalls-com.mp4" \
+            -filter_complex "[0:v]fps=10,scale=960:540:force_original_aspect_ratio=increase,crop=960:300:0:85,drawbox=x=0:y=188:w=iw:h=112:color=black@0.48:t=fill,drawtext=fontfile=/usr/share/fonts/truetype/dejavu/DejaVuSans-Bold.ttf:text='SUJAY MOHANTY':fontcolor=white:fontsize=44:borderw=2:bordercolor=black@0.70:x=(w-text_w)/2:y=202,drawtext=fontfile=/usr/share/fonts/truetype/dejavu/DejaVuSans.ttf:text='AI/ML  |  COMPUTER VISION  |  PYTHON':fontcolor=0x9beeff:fontsize=17:borderw=1:bordercolor=black@0.65:x=(w-text_w)/2:y=257,split[v1][v2];[v1]palettegen=max_colors=128:stats_mode=diff[p];[v2][p]paletteuse=dither=bayer:diff_mode=rectangle" \
+            -loop 0 "assets/cosmic-header.gif"
+          test -s "assets/cosmic-header.gif"
+
+      - name: Commit GIF if changed
+        uses: stefanzweifel/git-auto-commit-action@v5
+        with:
+          commit_message: "chore: refresh cosmic video header"
+          file_pattern: assets/cosmic-header.gif
+
+      - name: Generate light and dark contribution snake SVGs
+        uses: Platane/snk/svg-only@v3
+        with:
+          github_user_name: ${{ github.repository_owner }}
+          outputs: |
+            dist/github-snake.svg
+            dist/github-snake-dark.svg?palette=github-dark&color_snake=55e6ff
+
+      - name: Publish snake graphics
+        uses: crazy-max/ghaction-github-pages@v3.1.0
+        with:
+          target_branch: output
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}

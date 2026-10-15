@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="700" height="300" viewBox="0 0 700 300">
+<defs><linearGradient id="bg" x2="1" y2="1"><stop stop-color="#08142d"/><stop offset="1" stop-color="#27124b"/></linearGradient><radialGradient id="planet"><stop stop-color="#d1f9ff"/><stop offset=".4" stop-color="#38cfff"/><stop offset="1" stop-color="#4d3ca8"/></radialGradient><filter id="glow"><feGaussianBlur stdDeviation="5" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter></defs>
+<rect width="700" height="300" rx="24" fill="url(#bg)"/>
+<g fill="#c8eeff" opacity=".7"><circle cx="54" cy="49" r="2"/><circle cx="121" cy="224" r="1.6"/><circle cx="254" cy="33" r="1.8"/><circle cx="605" cy="63" r="2"/><circle cx="650" cy="228" r="1.7"/><circle cx="500" cy="260" r="2"/></g>
+<ellipse cx="495" cy="150" rx="140" ry="60" transform="rotate(-20 495 150)" fill="none" stroke="#58dfff" stroke-opacity=".6" stroke-width="2"/>
+<circle cx="500" cy="150" r="58" fill="url(#planet)" filter="url(#glow)"/>
+<path d="M110 195 L145 125 L180 195 L158 183 L132 183 Z" fill="#f0fcff" stroke="#43dcff" stroke-width="4" filter="url(#glow)"/>
+<path d="M145 195 L145 232" stroke="#7e68ff" stroke-width="7" stroke-linecap="round"/>
+<g fill="#a77aff" stroke="#e0caff" stroke-width="2"><path d="M300 60 l20 13 -7 21 -23 -4 -7 -20Z"/><path d="M370 226 l23 6 2 21 -24 9 -13 -18Z"/><path d="M608 112 l16 6 3 17 -18 11 -12 -17Z"/></g>
+<text x="34" y="54" font-family="monospace" font-size="14" fill="#6ef0ff" letter-spacing="4">GAME_01 / ORBITAL DRIFT</text>
+<text x="34" y="270" font-family="monospace" font-size="12" fill="#c6b8ff">DODGE • COLLECT • SURVIVE</text>
+</svg>

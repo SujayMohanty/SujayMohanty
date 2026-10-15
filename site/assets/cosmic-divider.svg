@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="72" viewBox="0 0 1200 72">
+<defs>
+  <linearGradient id="line" x1="0" y1="0" x2="1" y2="0">
+    <stop offset="0" stop-color="#0b132a" stop-opacity="0"/>
+    <stop offset=".22" stop-color="#25e5ff"/>
+    <stop offset=".50" stop-color="#9c5cff"/>
+    <stop offset=".78" stop-color="#25e5ff"/>
+    <stop offset="1" stop-color="#0b132a" stop-opacity="0"/>
+  </linearGradient>
+  <filter id="glow"><feGaussianBlur stdDeviation="2.2" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+</defs>
+<g stroke="#38cfff" stroke-opacity=".16" fill="none">
+  <path d="M0 36 H1200" stroke-dasharray="2 12"/>
+  <path d="M120 36 L175 12 L210 12 M990 36 L1040 58 L1080 58"/>
+  <path d="M300 6 L330 36 L300 66 M900 6 L870 36 L900 66"/>
+</g>
+<path d="M20 36 C130 36 145 36 220 36 S330 36 400 36 S510 36 600 36 S700 36 800 36 S900 36 980 36 S1090 36 1180 36" stroke="url(#line)" stroke-width="2" fill="none" filter="url(#glow)"/>
+<g fill="#c4f7ff" filter="url(#glow)"><circle cx="220" cy="36" r="3"/><circle cx="400" cy="36" r="2.5"/><circle cx="600" cy="36" r="4"/><circle cx="800" cy="36" r="2.5"/><circle cx="980" cy="36" r="3"/></g>
+<g stroke="#9c5cff" stroke-width="1.5" fill="none" opacity=".9"><path d="M574 36 L590 20 L610 20 L626 36 L610 52 L590 52 Z"/><path d="M584 36 L594 26 L606 26 L616 36 L606 46 L594 46 Z" stroke="#25e5ff"/></g>
+<circle cx="600" cy="36" r="7" fill="#f5fbff" fill-opacity=".88"/>
+<g fill="#91a8c7" font-family="monospace" font-size="8" opacity=".75"><text x="28" y="26">SYS::ONLINE</text><text x="1085" y="26" text-anchor="end">NEURAL LINK</text></g>
+</svg>

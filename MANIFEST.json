@@ -1,0 +1,84 @@
+{
+  "package": "Sujay Cosmic GitHub Profile Kit",
+  "original_video_sha256": "8bbc09f8f68912f613ffc4df16b967ec7d3a1bf86bd637571e45ed204ff4d546",
+  "gif_size": [
+    960,
+    300
+  ],
+  "gif_frames": 31,
+  "checks": {
+    "original_video_matches_upload": true,
+    "animated_header_is_960x300": true,
+    "arcade_section_present_once": true,
+    "pages_workflow_present": true,
+    "snake_filenames_match": true,
+    "game_art_assets_present": true
+  },
+  "files": [
+    {
+      "path": ".github/workflows/pages.yml",
+      "bytes": 814,
+      "sha256": "5671d869717dad94ccf5c2a9aac1d694e55d2c090a3167ca332b2f8945877ab7"
+    },
+    {
+      "path": ".github/workflows/snake.yml",
+      "bytes": 2361,
+      "sha256": "c13e8927ccba6be5cb6f49f5ca8fa12151654f7c765ac9efeecc13842ff72de2"
+    },
+    {
+      "path": "README.md",
+      "bytes": 15188,
+      "sha256": "265a0539d6b0a88f26b2477d1f7eb1c18f1222ae2d898301ce9bb500c47a57ed"
+    },
+    {
+      "path": "SETUP.md",
+      "bytes": 4088,
+      "sha256": "43b41f3482893ffa9355e722e2639c36bf251fa922752945a89f8687f55e7220"
+    },
+    {
+      "path": "assets/cosmic-divider.svg",
+      "bytes": 1669,
+      "sha256": "bdcf6768f6cfdfe0f7e5c7ac68141aa51c39ba3c4cf422f58996d0079eee2b1f"
+    },
+    {
+      "path": "assets/cosmic-header.gif",
+      "bytes": 3399235,
+      "sha256": "6d0bebaaa241687a740b214546dee7c5bab195d522105b3ed1aa141c8d92b68f"
+    },
+    {
+      "path": "assets/singularity-cosmic-vortex-moewalls-com.mp4",
+      "bytes": 11569431,
+      "sha256": "8bbc09f8f68912f613ffc4df16b967ec7d3a1bf86bd637571e45ed204ff4d546"
+    },
+    {
+      "path": "site/assets/cosmic-divider.svg",
+      "bytes": 1669,
+      "sha256": "bdcf6768f6cfdfe0f7e5c7ac68141aa51c39ba3c4cf422f58996d0079eee2b1f"
+    },
+    {
+      "path": "site/assets/cosmic-header.gif",
+      "bytes": 3399235,
+      "sha256": "6d0bebaaa241687a740b214546dee7c5bab195d522105b3ed1aa141c8d92b68f"
+    },
+    {
+      "path": "site/assets/orbital-drift.svg",
+      "bytes": 1687,
+      "sha256": "3fb17edfb7a606e442ae509dcfeec47885088a3c408a6a769efcd4697f5fd9f9"
+    },
+    {
+      "path": "site/assets/signal-memory.svg",
+      "bytes": 1446,
+      "sha256": "a6bd151c86b62295c4c0bc2a13d9ce861a8eea314bcd7ea8acc7c4b1103f24f4"
+    },
+    {
+      "path": "site/games.js",
+      "bytes": 8446,
+      "sha256": "0798a8bf0265bd2d2f5e5c3c6371590f107234ac0c5473c52c734dbf39687f81"
+    },
+    {
+      "path": "site/index.html",
+      "bytes": 9822,
+      "sha256": "8dec0f64f39dd65d47d7d10b8f3832a149762af9e4d99e8af9501298982f860b"
+    }
+  ]
+}
