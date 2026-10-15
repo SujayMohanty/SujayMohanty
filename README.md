@@ -270,15 +270,17 @@ Actively looking to connect, collaborate, and grow with like-minded professional
   <sub>AI/ML • Computer Vision • Software Engineering • Open Source</sub>
 </p>
 
-## 🐍 Contribution Activity — Cosmic Snake
+## 📅 GitHub Contribution Activity
 
 <p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/SujayMohanty/SujayMohanty/output/github-contribution-grid-snake-dark.svg">
-    <img src="https://raw.githubusercontent.com/SujayMohanty/SujayMohanty/output/github-contribution-grid-snake.svg" alt="Animated GitHub contribution snake" width="100%">
-  </picture>
+  <img src="https://ghchart.rshah.org/00E5FF/SujayMohanty" alt="Sujay Mohanty's GitHub contribution calendar" width="100%">
 </p>
 
+<p align="center">
+  <a href="https://github.com/SujayMohanty">
+    <img src="https://img.shields.io/badge/View%20Full%20Contribution%20History-GitHub-181717?style=for-the-badge&logo=github" alt="View GitHub contribution history">
+  </a>
+</p>
 <p align="center">
   <sub>⚡ Every contribution fuels the journey. Keep building.</sub>
 </p>
