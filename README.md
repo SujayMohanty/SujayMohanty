@@ -205,34 +205,6 @@ Actively looking to connect, collaborate, and grow with like-minded professional
 
 <img src="./assets/cosmic-divider.svg" width="100%" alt="Futuristic cosmic divider"/>
 
-## 🎮 Interactive Mini-Arcade
-
-A small playable corner of my profile. Open the game hub for two browser games built with plain HTML, CSS, Canvas, and JavaScript—no installation required.
-
-<table>
-<tr>
-<td width="50%" valign="top">
-<a href="https://sujaymohanty.github.io/SujayMohanty/">
-<img src="./site/assets/orbital-drift.svg" width="100%" alt="Orbital Drift game artwork"/>
-</a>
-<h3>🛰️ Orbital Drift</h3>
-<p>Dodge drifting asteroids, collect energy orbs, and push your high score higher.</p>
-<a href="https://sujaymohanty.github.io/SujayMohanty/"><img src="https://img.shields.io/badge/PLAY-ORBITAL%20DRIFT-0bdaef?style=for-the-badge&amp;logo=gamejolt&amp;logoColor=07111f" alt="Play Orbital Drift"/></a>
-</td>
-<td width="50%" valign="top">
-<a href="https://sujaymohanty.github.io/SujayMohanty/">
-<img src="./site/assets/signal-memory.svg" width="100%" alt="Signal Memory game artwork"/>
-</a>
-<h3>🧠 Signal Memory</h3>
-<p>Watch the glowing sequence, then repeat it without making a mistake. Each round adds another signal.</p>
-<a href="https://sujaymohanty.github.io/SujayMohanty/"><img src="https://img.shields.io/badge/PLAY-SIGNAL%20MEMORY-8d5bff?style=for-the-badge&amp;logo=gamejolt&amp;logoColor=white" alt="Play Signal Memory"/></a>
-</td>
-</tr>
-</table>
-
-<sub>GitHub README pages don't execute arbitrary JavaScript, so the mini-games are hosted on GitHub Pages and launched from these cards. See <code>site/</code> in this repository for the full source.</sub>
-
-<img src="./assets/cosmic-divider.svg" width="100%" alt="Futuristic cosmic divider"/>
 
 ## 🛰️ GitHub Command Center
 
@@ -298,101 +270,43 @@ A small playable corner of my profile. Open the game hub for two browser games b
   <sub>AI/ML • Computer Vision • Software Engineering • Open Source</sub>
 </p>
 
-## 🐍 Contribution Snake Protocol
-
-<div align="center">
-<img src="https://raw.githubusercontent.com/SujayMohanty/SujayMohanty/output/github-snake-dark.svg" alt="Animated snake moving across the GitHub contribution grid" width="100%"/>
-</div>
+### 🐍 Contribution Activity — Snake Edition
 
 <p align="center">
-<a href="https://github.com/SujayMohanty/SujayMohanty/actions/workflows/snake.yml">
-<img src="https://img.shields.io/badge/ACTION-GENERATE%20SNAKE-7C4DFF?style=for-the-badge&logo=githubactions&logoColor=white" alt="Run contribution snake workflow"/>
-</a>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/SujayMohanty/SujayMohanty/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/SujayMohanty/SujayMohanty/output/github-contribution-grid-snake.svg" />
+    <img alt="Animated snake moving across my GitHub contribution grid" src="https://raw.githubusercontent.com/SujayMohanty/SujayMohanty/output/github-contribution-grid-snake.svg" width="100%" />
+  </picture>
 </p>
-
-<sub>The snake is an animated visualization of your GitHub contribution grid—not a playable JavaScript game inside Markdown. The included Actions workflow generates the light and dark snake SVGs and publishes them to the <code>output</code> branch. If the image is missing after setup, run <b>Actions → Generate cosmic header and contribution snake → Run workflow</b>.</sub>
-
-<img src="./assets/cosmic-divider.svg" width="100%" alt="Futuristic cosmic divider"/>
 
 ## 🏆 Achievements & Certifications
 
-<details open>
-<summary><b>🏅 LinkedIn — Licenses & Certifications (10 credentials)</b></summary>
-<br/>
-<p>Source: <a href="https://www.linkedin.com/in/sujay-santanu-mohanty-b3180a383">Sujay's LinkedIn profile</a>. Credential IDs are shown where available.</p>
+<details>
+<summary><b>🎓 AI, Machine Learning & Professional Certifications</b></summary>
 
-<table>
-<tr>
-<td width="50%" valign="top">
-<strong>AI-ML Virtual Internship</strong><br/>
-<img src="https://img.shields.io/badge/Google%20for%20Developers-INTERNSHIP-4285F4?style=flat-square&logo=googledevelopers&logoColor=white" alt="Google for Developers"/><br/>
-<sub>Issued Mar 2026</sub><br/>
-<code>4f7894729e57dd588434</code>
-</td>
-<td width="50%" valign="top">
-<strong><a href="https://www.hackerrank.com/certificates/A8C13FD9331F">REST API (Intermediate)</a></strong><br/>
-<img src="https://img.shields.io/badge/HackerRank-INTERMEDIATE-2EC866?style=flat-square&logo=hackerrank&logoColor=white" alt="HackerRank"/><br/>
-<sub>Issued Feb 2026</sub><br/>
-<code>A8C13FD9331F</code>
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-<strong>AI Fundamentals: Language & Vision in AI</strong><br/>
-<img src="https://img.shields.io/badge/IBM-AI%20FUNDAMENTALS-1261FE?style=flat-square&logo=ibm&logoColor=white" alt="IBM"/><br/>
-<sub>Issued Feb 2026</sub>
-</td>
-<td width="50%" valign="top">
-<strong><a href="https://www.hackerrank.com/certificates/A96932E03EDF">Python (Basic)</a></strong><br/>
-<img src="https://img.shields.io/badge/HackerRank-PYTHON-2EC866?style=flat-square&logo=hackerrank&logoColor=white" alt="HackerRank"/><br/>
-<sub>Issued Jan 2026</sub><br/>
-<code>A96932E03EDF</code>
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-<strong><a href="https://www.hackerrank.com/certificates/24223D913430">Software Engineer</a></strong><br/>
-<img src="https://img.shields.io/badge/HackerRank-SOFTWARE%20ENGINEER-2EC866?style=flat-square&logo=hackerrank&logoColor=white" alt="HackerRank"/><br/>
-<sub>Issued Jan 2026</sub><br/>
-<code>24223D913430</code>
-</td>
-<td width="50%" valign="top">
-<strong><a href="https://www.hackerrank.com/certificates/8D8BA1C7CD3E">SQL (Basic)</a></strong><br/>
-<img src="https://img.shields.io/badge/HackerRank-SQL-2EC866?style=flat-square&logo=hackerrank&logoColor=white" alt="HackerRank"/><br/>
-<sub>Issued Jan 2026</sub><br/>
-<code>8D8BA1C7CD3E</code>
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-<strong>Introduction to Artificial Intelligence</strong><br/>
-<img src="https://img.shields.io/badge/IBM-ARTIFICIAL%20INTELLIGENCE-1261FE?style=flat-square&logo=ibm&logoColor=white" alt="IBM"/><br/>
-<sub>Issued Jan 2026</sub><br/>
-<code>ALM-COURSE_4058918</code>
-</td>
-<td width="50%" valign="top">
-<strong><a href="https://coursera.org/verify/5B60GEGO7GTN">Crash Course on Python</a></strong><br/>
-<img src="https://img.shields.io/badge/Google-PYTHON%20COURSE-4285F4?style=flat-square&logo=google&logoColor=white" alt="Google"/><br/>
-<sub>Issued Sep 2024</sub><br/>
-<code>5B60GEGO7GTN</code>
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-<strong>Fundamentals of AI (EDU-100)</strong><br/>
-<img src="https://img.shields.io/badge/Zscaler-AI%20FUNDAMENTALS-6D28D9?style=flat-square" alt="Zscaler"/><br/>
-<sub>Valid May 2026 – May 2028</sub><br/>
-<code>uonz4y9xj59m</code>
-</td>
-<td width="50%" valign="top">
-<strong>Fundamentals of AI Security (EDU-111)</strong><br/>
-<img src="https://img.shields.io/badge/Zscaler-AI%20SECURITY-6D28D9?style=flat-square" alt="Zscaler"/><br/>
-<sub>Valid May 2026 – May 2028</sub><br/>
-<code>nd3cs9mg999w</code>
-</td>
-</tr>
-</table>
+<br/>
+
+| Certification | Issuer | Verification |
+|---|---|---|
+| AI-ML Virtual Internship | Google for Developers | [View credential](ADD_GOOGLE_CREDENTIAL_URL) |
+| AI Fundamentals: Language and Vision in AI | IBM | [View credential](ADD_IBM_CREDENTIAL_URL) |
+| Introduction to Artificial Intelligence | IBM | [View credential](ADD_IBM_AI_CREDENTIAL_URL) |
+| Python (Basic) | HackerRank | [Verify certificate](ADD_HACKERRANK_PYTHON_URL) |
+| SQL (Basic) | HackerRank | [Verify certificate](ADD_HACKERRANK_SQL_URL) |
+| Software Engineer Certification | HackerRank | [Verify certificate](ADD_HACKERRANK_ENGINEER_URL) |
+| Rest API (Intermediate) | HackerRank | [Verify certificate](ADD_HACKERRANK_API_URL) |
+| Fundamentals of AI (EDU-100) | Zscaler | [View credential](ADD_ZSCALER_AI_URL) |
+| Fundamentals of AI Security (EDU-111) | Zscaler | [View credential](ADD_ZSCALER_SECURITY_URL) |
+| Crash Course on Python | Google | [View credential](ADD_GOOGLE_PYTHON_URL) |
+
 </details>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/YOUR-LINKEDIN-USERNAME/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-View%20All%20Credentials-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="View LinkedIn certifications"/>
+  </a>
+</p>
 
 <details>
 <summary><b>🛡️ Additional programme shared in LinkedIn activity</b></summary>
@@ -417,7 +331,7 @@ A small playable corner of my profile. Open the game hub for two browser games b
 ## 🛰️ End of Transmission
 
 <img src="https://img.shields.io/badge/STATUS-CURIOUS%20BY%20DESIGN-0bdaef?style=for-the-badge&labelColor=101522" alt="Curious by design"/>
-<img src="https://img.shields.io/badge/NEXT%20MISSION-KEEP%20BUILDING-7c4dff?style=for-the-badge&labelColor=101522" alt="Keep building"/>
+<img src="https://img.shields.io/badge/NEXT%20MISSION-KEEP%20BUILDING-7c4dff?style=for-the-badge&labelColor=101522" alt="Win Win & Win"/>
 
 **Thanks for visiting. Keep learning, keep building, and make the next version better.** ✨
 
