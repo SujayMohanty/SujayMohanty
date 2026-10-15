@@ -270,14 +270,17 @@ Actively looking to connect, collaborate, and grow with like-minded professional
   <sub>AI/ML • Computer Vision • Software Engineering • Open Source</sub>
 </p>
 
-### 🐍 Contribution Activity — Snake Edition
+## 🐍 Contribution Activity — Cosmic Snake
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/SujayMohanty/SujayMohanty/output/github-contribution-grid-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/SujayMohanty/SujayMohanty/output/github-contribution-grid-snake.svg" />
-    <img alt="Animated snake moving across my GitHub contribution grid" src="https://raw.githubusercontent.com/SujayMohanty/SujayMohanty/output/github-contribution-grid-snake.svg" width="100%" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/SujayMohanty/SujayMohanty/output/github-contribution-grid-snake-dark.svg">
+    <img src="https://raw.githubusercontent.com/SujayMohanty/SujayMohanty/output/github-contribution-grid-snake.svg" alt="Animated GitHub contribution snake" width="100%">
   </picture>
+</p>
+
+<p align="center">
+  <sub>⚡ Every contribution fuels the journey. Keep building.</sub>
 </p>
 
 ## 🏆 Achievements & Certifications
