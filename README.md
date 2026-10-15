@@ -109,7 +109,6 @@ Actively looking to connect, collaborate, and grow with like-minded professional
 <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C"/>
 <img src="https://img.shields.io/badge/SQL-DATABASE%20QUERIES-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="SQL"/>
 <img src="https://img.shields.io/badge/HTML5-WEB%20STRUCTURE-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
-<img src="https://img.shields.io/badge/CSS3-WEB%20DESIGN-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
 
 ### 🌐 Web Development & UI
 
@@ -117,7 +116,7 @@ Actively looking to connect, collaborate, and grow with like-minded professional
 <img src="https://img.shields.io/badge/Node.js-BACKEND-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js"/>
 <img src="https://img.shields.io/badge/Express.js-API%20DEVELOPMENT-FFFFFF?style=for-the-badge&logo=express&logoColor=black" alt="Express.js"/>
 <img src="https://img.shields.io/badge/Tailwind%20CSS-UI%20STYLING-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" alt="Tailwind CSS"/>
-<img src="https://img.shields.io/badge/Bootstrap-UI%20FRAMEWORK-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap"/>
+
 <img src="https://img.shields.io/badge/REST%20API-BACKEND%20INTEGRATION-009688?style=for-the-badge" alt="REST APIs"/>
 <img src="https://img.shields.io/badge/Streamlit-ML%20WEB%20APPS-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" alt="Streamlit"/>
 <img src="https://img.shields.io/badge/PyQt6-DESKTOP%20APPS-41CD52?style=for-the-badge&logo=qt&logoColor=white" alt="PyQt6"/>
@@ -131,7 +130,7 @@ Actively looking to connect, collaborate, and grow with like-minded professional
 <img src="https://img.shields.io/badge/Netlify-WEB%20DEPLOYMENT-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" alt="Netlify"/>
 <img src="https://img.shields.io/badge/GitHub%20Pages-STATIC%20HOSTING-222222?style=for-the-badge&logo=githubpages&logoColor=white" alt="GitHub Pages"/>
 <img src="https://img.shields.io/badge/AWS-CLOUD%20COMPUTING-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white" alt="AWS"/>
-<img src="https://img.shields.io/badge/Docker-CONTAINERIZATION-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
+
 
 ### 🛠️ Developer Tools & Version Control
 
@@ -140,7 +139,7 @@ Actively looking to connect, collaborate, and grow with like-minded professional
 <img src="https://img.shields.io/badge/VS%20Code-DEVELOPMENT%20ENVIRONMENT-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="VS Code"/>
 <img src="https://img.shields.io/badge/Jupyter-INTERACTIVE%20COMPUTING-F37626?style=for-the-badge&logo=jupyter&logoColor=white" alt="Jupyter"/>
 <img src="https://img.shields.io/badge/Postman-API%20TESTING-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman"/>
-<img src="https://img.shields.io/badge/Linux-OPERATING%20SYSTEM-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux"/>
+
 <img src="https://img.shields.io/badge/GitHub%20Actions-CI%2FCD-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" alt="GitHub Actions"/>
 <img src="https://img.shields.io/badge/PyInstaller-PYTHON%20PACKAGING-3776AB?style=for-the-badge" alt="PyInstaller"/>
 
