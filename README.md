@@ -14,9 +14,13 @@
 
 <img src="./assets/cosmic-divider.svg" width="100%" alt="Futuristic cosmic divider"/>
 
-## 🌌 `Sujay Mohanty // Profile`
+##🌌 `Sujay Mohanty? Yep that's ME`
 
-I'm a **B.Tech Artificial Intelligence & Machine Learning student** who enjoys building useful things with Python, computer vision, and machine learning. I like turning ideas into working prototypes — from object detection and OCR to gesture-controlled tools and AI-powered applications.
+I am an Artificial Intelligence and Machine Learning enthusiast with a a growing interest in Python and an ever-growing passion for building intelligent, real-world solutions. Currently pursuing my B.Tech at GIET University, I enjoy exploring the intersection of technology, logic, and creativity.
+
+Beyond academics, I bring proven leadership and team management experience, having coordinated teams and delivered results under pressure. As an Inter-district level debate champion, I possess strong communication, analytical thinking, and public-speaking skills allowing me to articulate complex ideas with clarity and confidence.
+I also have hands-on experience as a game tester, where attention to detail, problem-solving, and user-centric thinking are key. I constantly seek opportunities to learn, experiment, and collaborate on innovative projects in AI, ML, and emerging technologies.
+Actively looking to connect, collaborate, and grow with like-minded professionals, mentors, and innovators.
 
 <table>
 <tr>
@@ -24,16 +28,16 @@ I'm a **B.Tech Artificial Intelligence & Machine Learning student** who enjoys b
 <h3>◈ CORE IDENTITY</h3>
 <ul>
 <li>🎓 B.Tech — Artificial Intelligence &amp; Machine Learning</li>
-<li>🧠 Focus: Computer Vision, Deep Learning, Python</li>
-<li>🔬 Interested in applied AI and research</li>
+<li>🧠 Focus: Computer Vision, Deep Learning, Python,LLM,NLP,AIAC</li>
+<li>🔬 Interested in applied AI, Machine Training and Testing and research</li>
 <li>🛠️ Prefer learning by building real projects</li>
 </ul>
 </td>
 <td width="50%" valign="top">
 <h3>◈ CURRENT MISSION</h3>
 <ul>
-<li>🔭 Improve AI/ML and computer-vision projects</li>
-<li>🌱 Strengthen model deployment and software engineering</li>
+<li>🔭 Explore how vast and deep the world of ML can be carried forwaord to</li>
+<li>🌱 Strengthen model development and Unbiased reviews for reinforcement</li>
 <li>👯 Open to thoughtful open-source collaboration</li>
 <li>⚡ Keep experimenting, documenting, and iterating</li>
 </ul>
@@ -54,9 +58,8 @@ I'm a **B.Tech Artificial Intelligence & Machine Learning student** who enjoys b
 ## 🧭 Present Status
 
 <table>
-<tr><td>🟢</td><td>Developing practical AI/ML and computer-vision systems</td></tr>
+<tr><td>🟢</td><td>Developing and Exploring Self</td></tr>
 <tr><td>🧪</td><td>Exploring reproducible experiments and research-friendly project ideas</td></tr>
-<tr><td>⚙️</td><td>Improving code quality, deployment, and documentation</td></tr>
 <tr><td>🌌</td><td>Experimenting with creative interfaces and intelligent applications</td></tr>
 </table>
 
@@ -73,14 +76,75 @@ I'm a **B.Tech Artificial Intelligence & Machine Learning student** who enjoys b
 </details>
 
 <details open>
-<summary><b>🤖 AI, Machine Learning & Computer Vision</b></summary>
+<summary><b>🤖 AI, Machine Learning, Computer Vision, LLMs, NLPs, Box-Bridging, Dijkstra and Greedy Approach </b></summary>
 <br/>
 <p>
+### 🧠 AI, Machine Learning & Computer Vision
+
+<img src="https://img.shields.io/badge/Python-PROGRAMMING-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
 <img src="https://img.shields.io/badge/YOLOv8-OBJECT%20DETECTION-00BFA6?style=for-the-badge&logo=ultralytics&logoColor=white" alt="YOLOv8"/>
 <img src="https://img.shields.io/badge/OpenCV-COMPUTER%20VISION-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" alt="OpenCV"/>
 <img src="https://img.shields.io/badge/PyTorch-DEEP%20LEARNING-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch"/>
 <img src="https://img.shields.io/badge/TensorFlow-MACHINE%20LEARNING-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow"/>
+<img src="https://img.shields.io/badge/Keras-NEURAL%20NETWORKS-D00000?style=for-the-badge&logo=keras&logoColor=white" alt="Keras"/>
+<img src="https://img.shields.io/badge/Scikit--Learn-ML%20ALGORITHMS-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" alt="Scikit-learn"/>
+<img src="https://img.shields.io/badge/NumPy-NUMERICAL%20COMPUTING-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy"/>
+<img src="https://img.shields.io/badge/Pandas-DATA%20ANALYSIS-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas"/>
 <img src="https://img.shields.io/badge/OCR-TEXT%20RECOGNITION-39D9FF?style=for-the-badge&labelColor=101522" alt="OCR"/>
+<img src="https://img.shields.io/badge/EasyOCR-TEXT%20EXTRACTION-8A2BE2?style=for-the-badge" alt="EasyOCR"/>
+<img src="https://img.shields.io/badge/Computer%20Vision-IMAGE%20PROCESSING-00C853?style=for-the-badge" alt="Computer Vision"/>
+
+### 💻 Programming Languages
+
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
+<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java"/>
+<img src="https://img.shields.io/badge/JavaScript-ES6+-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
+<img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C"/>
+<img src="https://img.shields.io/badge/SQL-DATABASE%20QUERIES-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="SQL"/>
+<img src="https://img.shields.io/badge/HTML5-WEB%20STRUCTURE-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
+<img src="https://img.shields.io/badge/CSS3-WEB%20DESIGN-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
+
+### 🌐 Web Development & UI
+
+<img src="https://img.shields.io/badge/React-UI%20DEVELOPMENT-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React"/>
+<img src="https://img.shields.io/badge/Node.js-BACKEND-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js"/>
+<img src="https://img.shields.io/badge/Express.js-API%20DEVELOPMENT-FFFFFF?style=for-the-badge&logo=express&logoColor=black" alt="Express.js"/>
+<img src="https://img.shields.io/badge/Tailwind%20CSS-UI%20STYLING-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" alt="Tailwind CSS"/>
+<img src="https://img.shields.io/badge/Bootstrap-UI%20FRAMEWORK-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap"/>
+<img src="https://img.shields.io/badge/REST%20API-BACKEND%20INTEGRATION-009688?style=for-the-badge" alt="REST APIs"/>
+<img src="https://img.shields.io/badge/Streamlit-ML%20WEB%20APPS-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" alt="Streamlit"/>
+<img src="https://img.shields.io/badge/PyQt6-DESKTOP%20APPS-41CD52?style=for-the-badge&logo=qt&logoColor=white" alt="PyQt6"/>
+
+### 🗄️ Databases, Cloud & Deployment
+
+<img src="https://img.shields.io/badge/Supabase-BACKEND%20AS%20A%20SERVICE-3FCF8E?style=for-the-badge&logo=supabase&logoColor=white" alt="Supabase"/>
+<img src="https://img.shields.io/badge/PostgreSQL-RELATIONAL%20DATABASE-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
+<img src="https://img.shields.io/badge/MySQL-DATABASE-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
+<img src="https://img.shields.io/badge/SQLite-EMBEDDED%20DATABASE-003B57?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQLite"/>
+<img src="https://img.shields.io/badge/Netlify-WEB%20DEPLOYMENT-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" alt="Netlify"/>
+<img src="https://img.shields.io/badge/GitHub%20Pages-STATIC%20HOSTING-222222?style=for-the-badge&logo=githubpages&logoColor=white" alt="GitHub Pages"/>
+<img src="https://img.shields.io/badge/AWS-CLOUD%20COMPUTING-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white" alt="AWS"/>
+<img src="https://img.shields.io/badge/Docker-CONTAINERIZATION-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
+
+### 🛠️ Developer Tools & Version Control
+
+<img src="https://img.shields.io/badge/Git-VERSION%20CONTROL-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
+<img src="https://img.shields.io/badge/GitHub-COLLABORATION-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+<img src="https://img.shields.io/badge/VS%20Code-DEVELOPMENT%20ENVIRONMENT-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="VS Code"/>
+<img src="https://img.shields.io/badge/Jupyter-INTERACTIVE%20COMPUTING-F37626?style=for-the-badge&logo=jupyter&logoColor=white" alt="Jupyter"/>
+<img src="https://img.shields.io/badge/Postman-API%20TESTING-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman"/>
+<img src="https://img.shields.io/badge/Linux-OPERATING%20SYSTEM-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux"/>
+<img src="https://img.shields.io/badge/GitHub%20Actions-CI%2FCD-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" alt="GitHub Actions"/>
+<img src="https://img.shields.io/badge/PyInstaller-PYTHON%20PACKAGING-3776AB?style=for-the-badge" alt="PyInstaller"/>
+
+### 🎮 Creative Coding & Interactive Projects
+
+<img src="https://img.shields.io/badge/Pygame-GAME%20DEVELOPMENT-00A86B?style=for-the-badge" alt="Pygame"/>
+<img src="https://img.shields.io/badge/MediaPipe-HAND%20TRACKING-0097A7?style=for-the-badge" alt="MediaPipe"/>
+<img src="https://img.shields.io/badge/YOLO-REAL--TIME%20DETECTION-00BFA6?style=for-the-badge&logo=ultralytics&logoColor=white" alt="YOLO"/>
+<img src="https://img.shields.io/badge/Computer%20Vision-GESTURE%20RECOGNITION-7C4DFF?style=for-the-badge" alt="Gesture Recognition"/>
+<img src="https://img.shields.io/badge/Open%20Source-BUILD%20IN%20PUBLIC-FF4081?style=for-the-badge&logo=opensourceinitiative&logoColor=white" alt="Open Source"/>
+
 </p>
 </details>
 
